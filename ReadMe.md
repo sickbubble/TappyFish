@@ -2,6 +2,10 @@
 
 Tappy Fish is a fun and addictive game inspired by the classic Flappy Bird. In this game, you control a cute fish and navigate it through obstacles by tapping on the screen. Your goal is to survive for as long as possible and achieve the highest score.
 
+## Demo
+
+Check out the live demo of Tappy Fish [here](https://youtu.be/omD5zsDHpHs)!
+
 ## Usage
 
 To play Tappy Fish, follow these steps:
