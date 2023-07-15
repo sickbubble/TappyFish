@@ -8,7 +8,9 @@ This game is developed in collaboration with Panteon Game Development Academy. S
 
 ## Demo
 
-Check out the live demo of Tappy Fish [here](https://youtu.be/omD5zsDHpHs)!
+Check out the live demo of Tappy Fish 
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/omD5zsDHpHs/0.jpg)](https://www.youtube.com/watch?v=omD5zsDHpHs)
 
 ## Usage
 
